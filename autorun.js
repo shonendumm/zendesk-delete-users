@@ -1,5 +1,6 @@
 import { main } from "./index.js";
 
+// runs bulk-delete the first time this file is used.
 main();
 
 const setMins = 60000 * 5;
